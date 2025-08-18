@@ -7,7 +7,7 @@ A production-ready FastAPI application that provides AI-powered sentiment analys
 ## 🚀 Features
 
 - **Batch Sentiment Analysis:** Analyze multiple influencer statements simultaneously using the fast and accurate DistilBERT model.
-- **Insight Generation:** Generate concise, business-friendly summarizations using GPT-2 for actionable insights.
+- **Insight Generation:** Generate concise, summarizations using GPT-2 for actionable insights.
 - **RESTful API:** Clean, well-documented endpoints with automatic OpenAPI (Swagger) and ReDoc documentation.
 - **Health Checks:** Built-in service health endpoints for monitoring.
 - **Comprehensive Testing:** Full test suite using `pytest` for confidence in code quality.
@@ -67,5 +67,6 @@ uvicorn app.main:app --reload
 ## 📦 Installation
 
 Install dependencies:
+
 
 pip install -r requirements.txt
