@@ -1,4 +1,4 @@
-# Influencer Sentiment Insight API
+# Social Media Intelligence Hub
 
 A production-ready FastAPI application that provides AI-powered sentiment analysis and natural language generation (NLG) for influencer statements and social media content.
 
@@ -70,3 +70,4 @@ Install dependencies:
 
 
 pip install -r requirements.txt
+
